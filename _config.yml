@@ -234,3 +234,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+header_pages:
+  - index.md
+  - blog.md
+
+url: "https://taeyeon0102.github.io" # 본인 계정 주소
+baseurl: "/blog"                        # 핵심: 블로그가 서브 경로에서 돈다는 걸 알려줌
