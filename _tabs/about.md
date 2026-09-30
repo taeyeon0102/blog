@@ -1,9 +1,6 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
+redirect_to: "https://taeyeon0102.github.io/"
 ---
-
-<iframe src="/assets/my-profile.html" width="100%" height="800px" frameborder="0">
-  이 브라우저는 iframe을 지원하지 않습니다.
-</iframe>
